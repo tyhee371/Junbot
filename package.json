@@ -1,0 +1,23 @@
+{
+  "name": "junbott",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "canvas": "^2.0.0-alpha.13",
+    "discord.js": "^11.4.0",
+    "ffmpeg-binaries": "^3.2.2-3",
+    "moment": "^2.22.2",
+    "node-opus": "^0.3.0",
+    "queue": "^4.4.2",
+    "simple-youtube-api": "^5.0.2",
+    "superagent": "^3.8.3",
+    "youtube": "^0.1.0",
+    "ytdl-core": "^0.24.0"
+  }
+}
