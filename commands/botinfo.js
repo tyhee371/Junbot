@@ -8,7 +8,7 @@ module.exports.run = async (bot, message, args) => {
     .setThumbnail(bicon)
     .addField("Name", bot.user.username)
     .addField("Info", "Hi I'm 歓迎 | Kangei feels free to join my server!")
-    .addField("Disocrd Server", "https://discord.gg/cdj8GHR")
+    .addField("Disocrd Server", "https://discord.gg/qHDseGf")
     .addField("Created By", ".Jun#0613")
     .addField("Created On", bot.user.createdAt);
 
